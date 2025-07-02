@@ -5,21 +5,21 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="38" value="Módulo – Relatórios e Transparência" style="whiteSpace=wrap;strokeWidth=2;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-131.5" y="3630" width="260" height="78" as="geometry" />
+          <mxGeometry x="-96.5" y="3110" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="39" value="Relatórios por tipo de contrato, status, fase" style="whiteSpace=wrap;strokeWidth=2;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-441.5" y="3770" width="260" height="78" as="geometry" />
+          <mxGeometry x="-406.5" y="3250" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="40" value="Exportações para PDF, Excel" style="whiteSpace=wrap;strokeWidth=2;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-131.5" y="3770" width="260" height="78" as="geometry" />
+          <mxGeometry x="-96.5" y="3250" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="41" value="Painel de indicadores" style="whiteSpace=wrap;strokeWidth=2;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="178.5" y="3782" width="213" height="54" as="geometry" />
+          <mxGeometry x="213.5" y="3262" width="213" height="54" as="geometry" />
         </mxCell>
         <mxCell id="72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="38" target="39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-311.5" y="3733" />
+              <mxPoint x="-276.5" y="3213" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -31,7 +31,7 @@
         <mxCell id="74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="38" target="41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="284.5" y="3733" />
+              <mxPoint x="319.5" y="3213" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -125,10 +125,10 @@
           <mxGeometry x="950" y="435" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uAvnOAVexBLQ8HgYREnK-74" value="Contratação" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="-759" y="1250" width="1520" height="1730" as="geometry" />
+          <mxGeometry x="-750" y="1260" width="1520" height="1730" as="geometry" />
         </mxCell>
         <mxCell id="HAM1l17IBcfT3V45FcVH-170" value="Fase EXTERNA aos cuidados da SUPEL" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="uAvnOAVexBLQ8HgYREnK-74" vertex="1">
-          <mxGeometry x="49" y="60" width="1406.5" height="380" as="geometry" />
+          <mxGeometry x="44" y="40" width="1406.5" height="420" as="geometry" />
         </mxCell>
         <mxCell id="HAM1l17IBcfT3V45FcVH-120" value="Gestão de cronograma, anexos e documentos" style="whiteSpace=wrap;strokeWidth=2;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="HAM1l17IBcfT3V45FcVH-170" vertex="1">
           <mxGeometry x="1111" y="130" width="260" height="78" as="geometry" />
@@ -233,6 +233,9 @@
         </mxCell>
         <mxCell id="HAM1l17IBcfT3V45FcVH-142" value="Módulo – Processos de Contratação" style="whiteSpace=wrap;strokeWidth=2;rounded=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="HAM1l17IBcfT3V45FcVH-170" vertex="1">
           <mxGeometry x="518" y="30" width="260" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="uAvnOAVexBLQ8HgYREnK-83" value="SUPEL deve realizar todas as tratativas licitatórias e devolver o vencedor para ser homologado pelo DER" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="HAM1l17IBcfT3V45FcVH-170">
+          <mxGeometry x="846" y="340" width="394" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uAvnOAVexBLQ8HgYREnK-75" value="Execução do contrato" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="uAvnOAVexBLQ8HgYREnK-74">
           <mxGeometry x="44" y="520" width="1330" height="1210" as="geometry" />
@@ -360,6 +363,12 @@
               <mxPoint x="1251" y="903" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uAvnOAVexBLQ8HgYREnK-85" value="Após o recebimento do vendedor advindo de processo na SUPEL inicia-se a homologação.&lt;br&gt;&lt;br&gt;TODO:&amp;nbsp; &amp;nbsp;Colher dados sobre essa etapa." style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="uAvnOAVexBLQ8HgYREnK-75">
+          <mxGeometry x="55" y="10" width="345" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uAvnOAVexBLQ8HgYREnK-86" value="" style="triangle;html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="uAvnOAVexBLQ8HgYREnK-85">
+          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
